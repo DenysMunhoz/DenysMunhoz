@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denysmunhoz&label=Profile%20views&color=0e75b6&style=flat" alt="denysmunhoz" /> </p>
 
-🌱 Atualmente eu estou aprendendo SQL e Python para Análise de Dados.
+🌱 Atualmente aprendendo SQL e Python para Análise de Dados.
 
-🤝 Estou procurando por uma oportunidade para trabalhar com Microsoft Power BI.
+🤝 Estou procurando uma oportunidade para trabalhar com Análise da Dados/Power BI.
 
 💬 Pergunte-me algo sobre Power BI e linguagem DAX.
 
